@@ -55,6 +55,3 @@
 
 - [**גיטהאב**](https://github.com/erelsgl/fairweb)
 - **מתכנת** [ד"ר אראל סגל-הלוי](https://github.com/erelsgl).
----
-
-&copy; 2023 אונ' אריאל. כל הזכויות שמורות.
