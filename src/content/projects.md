@@ -10,7 +10,7 @@
 
 ## אפליקציות
 
-### [דירוג קורסי בחירה](https://csariel.xyz)
+### [דירוג קורסי בחירה](https://faircourse.csariel.xyz)
 במקום לתת לסטודנטים לבחור קורסים בשיטת "כל הקודם זוכה", אנחנו מציעים לאפשר להם לדרג את קורסי הבחירה לפי ההעדפות שלהם, ולחלק את הקורסים בעזרת אלגוריתם לחלוקה הוגנת. 
 
 - **גיטהאב**
@@ -52,8 +52,11 @@
 - **סטודנטית** [אוריה אלפרין](https://github.com/oriyalp).
 ---
 
-### [חלוקה הוגנת בגליון אלקטרוני](https://fairweb.csariel.xyz)
-אתר המאפשר להכניס ערכים ששחקנים מייחסים למשאבים וחפצים לגליון אלקטרוני של גוגל (Google Sheet), ולחשב חלוקה הוגנת בעזרת אלגוריתמים שונים. כרגע נתמכים שני אלגוריתמים: חלוקה הוגנת עם שיתוף חסום (bounded sharing), ושידוך-מקסימום-חוזר לצורך חלוקת קורסים (iterated maximum matching).
+### חלוקה הוגנת בגליון אלקטרוני
+אתר המאפשר להכניס ערכים ששחקנים מייחסים למשאבים וחפצים לגליון אלקטרוני של גוגל (Google Sheet), ולחשב חלוקה הוגנת בעזרת אלגוריתמים שונים. כרגע נתמכים שני אלגוריתמים: 
+
+* [חלוקה הוגנת עם שיתוף חסום (bounded sharing)](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1tJPV-y-r1TAx5FqbrqecKPJMeKHTtIDeiYck8eLoGKY%2Fedit%23gid%3D0&algorithm_name=bounded_sharing&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
+* [שידוך-מקסימום-חוזר לצורך חלוקת קורסים (iterated maximum matching).](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1iwrgI0wPa6B4ps9WdCmKIK3K1ekd7ilFQu0Idmqg5SY%2Fedit%23gid%3D0&algorithm_name=course_allocation&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
 
 - [**גיטהאב**](https://github.com/erelsgl/fairweb)
 - **מתכנת** [ד"ר אראל סגל-הלוי](https://github.com/erelsgl).
@@ -61,4 +64,6 @@
 
 ## קוד פתוח
 
-### [ספריה של אלגוריתמים בגרפים](https://github.com/ariel-research/networkz) בשם networkz -- הרחבה של networkx.
+### [ספריה של אלגוריתמים בגרפים](https://github.com/ariel-research/networkz) 
+
+הספריה networkz -- הרחבה של networkx.
