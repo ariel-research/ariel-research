@@ -10,7 +10,7 @@ const renderMarkdown = (filePath) => (req, res) => {
       return res.status(500).send('Error reading Markdown file');
     }
     const html = marked.parse(fileContent);
-    res.render('page', { title: filePath, content: html });
+    res.render('page', { content: html });
   });
 };
 
