@@ -1,16 +1,12 @@
-# Ariel University - Research Projects
-**This web app is designed to ease access to information for the research projects' development process at Ariel University.**
+# אוניברסיטת אריאל - פרויקטים מחקריים
+**אפליקציה זו נועדה להקל על הנגשת המידע עבור תהליכי פיתוח הפרויקטים המחקריים באוניברסיטת אריאל.**
 
-## Application Overview
-This Node.js-based application dynamically renders its pages from Markdown files.
+## סקירת האפליקציה
+האפליקציה מבוססת Node.js ומרנדרת קבצי Markdown בצורה דינאמית.
 
-## Pages
-- [Projects List](https://csariel.xyz) (homepage)
-- [Service Activation Guide](https://csariel.xyz/how-to/service)
-
-## Contributing
-To contribute, please follow [this guide](CONTRIBUTING.md).
-
+## דפים
+- [רשימת הפרויקטים](https://csariel.xyz) (דף הבית)
+- [מדריך הפעלת שירות](https://csariel.xyz/how-to/service)
 
 
 
