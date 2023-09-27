@@ -12,11 +12,15 @@ h1 {
 }
 
 h2 {
+    padding-top: 1em; 
+    border-top: solid #000 2pt;
     font-size: 24px;
     font-weight: bold;
 }
 
 h3 {
+    padding-top: 0.5em; 
+    border-top: solid #888 1pt;
     font-size: 18px;
     font-weight: bold;
 }
