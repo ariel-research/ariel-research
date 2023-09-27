@@ -58,7 +58,7 @@
 
 ### [שידוך דירוג מקסימלי](https://rmm.csariel.xyz)
 
-**שידוך דירוג מקסימלי** (Rank Maximal Matching) הוא שידוך בין אנשים לחפצים, הממקסם את מספר האנשים שמקבלים את העדיפות הראשונה שלהם; בכפוף לזה, ממקסם את מספר האנשים המקבלים את העדיפות השניה שלהם; וכו'. האתר מדגים אלגוריתם לשידוך דירוג מקסימלי - בגרף דו-צדדי.
+**שידוך דירוג מקסימלי** (Rank Maximal Matching) הוא שידוך בין אנשים לחפצים, הממקסם את מספר האנשים שמקבלים את העדיפות הראשונה שלהם; בכפוף לזה, ממקסם את מספר האנשים המקבלים את העדיפות השניה שלהם; וכו'. האתר מדגים אלגוריתם לשידוך דירוג מקסימלי בגרף דו-צדדי.
 
 - [**גיטהאב**](https://github.com/oriyalp/rmm_flask_app)
 - **סטודנטית** [אוריה אלפרין](https://github.com/oriyalp).
@@ -66,17 +66,29 @@
 ### חלוקה הוגנת בגליון אלקטרוני
 אתר המאפשר להכניס ערכים ששחקנים מייחסים למשאבים וחפצים לגליון אלקטרוני של גוגל (Google Sheet), ולחשב חלוקה הוגנת בעזרת אלגוריתמים שונים. כרגע נתמכים שני אלגוריתמים: 
 
-* [חלוקה הוגנת עם שיתוף חסום (bounded sharing)](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1tJPV-y-r1TAx5FqbrqecKPJMeKHTtIDeiYck8eLoGKY%2Fedit%23gid%3D0&algorithm_name=bounded_sharing&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
-* [שידוך-מקסימום-חוזר לצורך חלוקת קורסים (iterated maximum matching).](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1iwrgI0wPa6B4ps9WdCmKIK3K1ekd7ilFQu0Idmqg5SY%2Fedit%23gid%3D0&algorithm_name=course_allocation&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
+* [חלוקת התיקים בממשלה בין המפלגות בקואליציה](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1tJPV-y-r1TAx5FqbrqecKPJMeKHTtIDeiYck8eLoGKY%2Fedit%23gid%3D0&algorithm_name=bounded_sharing&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
+* [חלוקת מקומות בקורסי-בחירה בין סטודנטים](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1iwrgI0wPa6B4ps9WdCmKIK3K1ekd7ilFQu0Idmqg5SY%2Fedit%23gid%3D0&algorithm_name=course_allocation&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
 
 - [**גיטהאב**](https://github.com/erelsgl/fairweb)
 - **מתכנת** [ד"ר אראל סגל-הלוי](https://erelsgl.github.io).
 
 ## פרוייקטי קוד פתוח
 
-### [ספריה של אלגוריתמים בגרפים](https://github.com/ariel-research/networkz) 
+### [אלגוריתמים בגרפים](https://github.com/ariel-research/networkz) 
 
-הספריה networkz היא הרחבה של networkx, הכוללת מימושים של כמה אלגוריתמים בגרפים ורשתות, שפותחו במסגרת המעבדה.
+הספריה networkz היא הרחבה של networkx, הכוללת מימושים של כמה אלגוריתמים בגרפים ורשתות, שנכתבו במסגרת המעבדה.
+
+
+## פרוייקטים בתיכנון
+
+### קביעת סדרי-עדיפויות לאנשי-ציבור 
+אתם (האזרחים) מתחברים לאתר של איש-ציבור מסוים, מעלים נושאים שאתם רוצים שיטופלו, ומצביעים לנושאים שהעלו אזרחים אחרים. 
+המערכת מדרגת את הנושאים לפי מספר התומכים בכל נושא, אבל מתחשבת גם במיעוטים ומבטיחה שכל קבוצה תקבל מענה הוגן.
+
+### בחירות מקדימות הוגנות
+
+אתם (מתפקדי המפלגה) מסמנים את המועמדים שמייצגים אתכם. המערכת קובעת את רשימת המפלגה לכנסת באופן המבטיח, שלכל מספר של מנדטים שהמפלגה תקבל, נציגי המפלגה בכנסת ייצגו באופן הוגן את כל המגזרים בקרב מתפקדי המפלגה. השיטה מאפשרת לכל מפלגה לקיים בחירות מקדימות אישיות, ללא צורך בשריונים.
+
 
 ## קורסים
 
