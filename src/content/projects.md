@@ -1,14 +1,17 @@
 <div style="text-align: center;">
   <h1>
-    <img src="https://avatars.githubusercontent.com/u/135531730?s=200&v=4" alt="Portfolio Logo" width="100">
-    אוניברסיטת אריאל - מדעי המחשב -
-    <br/>פרוייקטים מחקריים
+    <img src="https://avatars.githubusercontent.com/u/135531730?s=200&v=4" alt="Portfolio Logo" width="100"/>
+    אוניברסיטת אריאל - בית-הספר למדעי המחשב 
+    <br/>המעבדה לאלגוריתמים כלכליים
     </h1>
 </div>
 
 <div dir="rtl" lang="he">
 
-## אפליקציות
+  **המעבדה לאלגוריתמים כלכליים**, בראשות [ד"ר אראל סגל-הלוי](http://erelsgl.github.io), עוסקת באפיון, פיתוח ומימוש של אלגוריתמים לחלוקה הוגנת של משאבים.
+
+  
+## יישומים שפותחו במעבדה
 
 ### [חלוקה הוגנת של קורסי בחירה](https://faircourse.csariel.xyz)
 אתם (הסטודנטים) מדרגים את קורסי הבחירה לפי ההעדפות שלכם. המערכת מחלקת את המקומות בקורסי הבחירה בעזרת אלגוריתם לחלוקה הוגנת. אנחנו מציעים להשתמש במערכת זו כתחליף לשיטה הנוכחית של "כל הקודם זוכה".
@@ -56,9 +59,9 @@
 [גלעד מועלם]().
 ---
 
-
 ### [שידוך דירוג מקסימלי](https://rmm.csariel.xyz)
-אתר להמחשת אלגוריתם המוצא Rank Maximal Matching - שידוך דירוג מקסימלי - בגרף דו-צדדי.
+
+**שידוך דירוג מקסימלי** (Rank Maximal Matching) הוא שידוך בין אנשים לחפצים, הממקסם את מספר האנשים שמקבלים את העדיפות הראשונה שלהם; בכפוף לזה, ממקסם את מספר האנשים המקבלים את העדיפות השניה שלהם; וכו'. האתר מדגים אלגוריתם לשידוך דירוג מקסימלי - בגרף דו-צדדי.
 
 - [**גיטהאב**](https://github.com/oriyalp/rmm_flask_app)
 - **סטודנטית** [אוריה אלפרין](https://github.com/oriyalp).
@@ -71,11 +74,11 @@
 * [שידוך-מקסימום-חוזר לצורך חלוקת קורסים (iterated maximum matching).](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1iwrgI0wPa6B4ps9WdCmKIK3K1ekd7ilFQu0Idmqg5SY%2Fedit%23gid%3D0&algorithm_name=course_allocation&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
 
 - [**גיטהאב**](https://github.com/erelsgl/fairweb)
-- **מתכנת** [ד"ר אראל סגל-הלוי](https://github.com/erelsgl).
+- **מתכנת** [ד"ר אראל סגל-הלוי](https://erelsgl.github.io).
 ---
 
-## קוד פתוח
+## פרוייקטי קוד פתוח
 
 ### [ספריה של אלגוריתמים בגרפים](https://github.com/ariel-research/networkz) 
 
-הספריה networkz -- הרחבה של networkx.
+הספריה networkz היא הרחבה של networkx, הכוללת מימושים של כמה אלגוריתמים בגרפים ורשתות, שפותחו במסגרת המעבדה.
