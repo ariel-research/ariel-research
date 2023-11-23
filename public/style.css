@@ -76,3 +76,36 @@ blockquote {
     margin-right: 0;
     color: gray;
 }
+
+.card-container {
+    display: flex;
+}
+
+.card-image {
+    flex: 1;
+    padding: 10px;
+    max-width: 100%;
+}
+
+.card-content {
+    flex: 3;
+    padding: 10px;
+}
+
+.card-title {
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.card-description {
+    font-weight: bold;
+}
+
+.card-list {
+    list-style: none;
+    padding: 0;
+}
+
+.card-list-item {
+    margin-bottom: 10px;
+}
