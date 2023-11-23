@@ -171,7 +171,7 @@
 </div>
 </div>
 
-## פרוייקטים בתיכנון
+## יישומים בתיכנון
 
 <div style="display: flex;">
     <div class="back">
@@ -191,6 +191,9 @@
         <img src="/images/projects/vote.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
+
+- [**גיטהאב**](https://github.com/ariel-research/adhocracy-plus) - התיכנון הוא להשתלב עם מערכת Adhocracy Plus.
+- **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
 
 ### בחירות מקדימות הוגנות
 
@@ -214,6 +217,10 @@
 
 </div>
 </div>
+
+## פרסומים מדעיים
+
+רשימת פרסומים מדעיים של צוות המעבדה ניתן לראות ב[גוגל סקולר](https://scholar.google.com/citations?hl=iw&user=K8TsXIkAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## צוות המעבדה
 
