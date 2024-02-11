@@ -22,7 +22,7 @@
   "devDependencies": {
     "eslint": "^8.49.0",
     "nodemon": "^3.0.1",
-    "webpack": "^5.88.2",
+    "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   }
 }

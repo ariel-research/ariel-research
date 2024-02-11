@@ -1,7 +1,6 @@
 <div style="text-align: center;">
   <h1>
     <img src="https://avatars.githubusercontent.com/u/135531730?s=200&v=4" alt="Portfolio Logo" width="100"/>
-    אוניברסיטת אריאל - בית-הספר למדעי המחשב 
     <br/>המעבדה לאלגוריתמים כלכליים
     </h1>
 </div>
@@ -122,21 +121,43 @@
 
 <div style="display: flex;">
     <div class="back">
+        <img src="/images/projects/propalloc.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [חלוקה פרופורציונלית](https://propalloc.csariel.xyz)
+
+**חלוקה פרופורציונלית על פי בורדה** (Proportional Borda allocation) 
+
+- [**גיטהאב**](https://github.com/shlomog12/web-Proportional-allocations)
+- **סטודנט** [שלמה גליק](https://github.com/shlomog12/web-Proportional-allocations)
+
+</div>
+</div>
+
+<div style="display: flex;">
+    <div class="back">
         <img src="/images/projects/envyfree.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [שידוך נטול קנאה](https://efm.csariel.xyz)
+### שידוך נטול קנאה
 
 **שידוך נטול קנאה** (Envy Free Matching) הוא שידוך בין אנשים לחפצים בו אף אדם לא ירצה להחליף את החפץ שקיבל עם חפץ של אדם אחר.
 
+#### [שידוך נטול קנאה](https://efm.csariel.xyz)
 - [**גיטהאב**](https://github.com/danigil/networkx)
 - **סטודנטים**:
     [דניאל גילקרוב](https://github.com/danigil),
     [בנימין סלדמן](https://github.com/BenjaminSaldman).
 
+#### [שידוך נטול קנאה בגליון אלקטרוני](https://envyfree.csariel.xyz/)
+- [**גיטהאב**]( https://github.com/noamya-sh/fairpy)
+- **סטודנט** [נועמיה שני](https://github.com/noamya-sh)
 </div>
 </div>
+
+
 
 <div style="display: flex;">
     <div class="back">
