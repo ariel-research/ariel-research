@@ -176,7 +176,9 @@
 - סטודנטים:
     [דניאל גילקרוב](https://github.com/danigil),
     [בנימין סלדמן](https://github.com/BenjaminSaldman).
--
+
+אלגוריתם דומה:
+
 - [חלוקה ללא  קנאה בגליון אלקטרוני](https://envyfree.csariel.xyz/)-
 - [מימוש האלגוריתם בספריה fairpy]( https://github.com/noamya-sh/fairpy)
 - סטודנט: [נועמיה שני](https://github.com/noamya-sh)
