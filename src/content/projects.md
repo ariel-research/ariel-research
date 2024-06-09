@@ -96,7 +96,10 @@
 
 - [אתר להדגמת האלגוריתם](https://budget.csariel.xyz)
 - [קוד מקור](https://github.com/ElhaiMansbach/Final-Project)
-- סטודנטים:  [אלחי מנצבך](https://github.com/ElhaiMansbach),  [אופיר עובדיה](https://github.com/OfirOvadia96),  [ליעוז עקירב](https://github.com/Lioo7).
+- סטודנטים:
+   [אלחי מנצבך](https://github.com/ElhaiMansbach),
+   [אופיר עובדיה](https://github.com/OfirOvadia96),
+   [ליעוז עקירב](https://github.com/Lioo7).
 
 </div>
 </div>
@@ -110,8 +113,9 @@
 ### [דירוג חברי כנסת](https://knesset.csariel.xyz)
 אתם כותבים מה דעתכם על הצעות-חוק שנדונו בכנסת (בעד או נגד).  המערכת מדרגת את חברי-הכנסת לפי רמת ההתאמה בין ההצבעות שלהם להצבעות שלכם, ועוזרת לכם להחליט באיזה חברי הכנסת לבחור בבחירות הבאות.
 
-- [**גיטהאב**](https://github.com/Political-Transparency)
-- **סטודנטים**:
+- [אתר להדגמת האלגוריתם](https://knesset.csariel.xyz)
+- [קוד מקור](https://github.com/Political-Transparency)
+- סטודנטים:
     [רפאל סולימן](),
     [יוסי מאמו](),
     [גלעד מועלם]().
@@ -129,17 +133,10 @@
 
 **שידוך דירוג מקסימלי** (Rank Maximal Matching) הוא שידוך בין אנשים לחפצים, הממקסם את מספר האנשים שמקבלים את העדיפות הראשונה שלהם; בכפוף לזה, ממקסם את מספר האנשים המקבלים את העדיפות השניה שלהם; וכו'. האתר מדגים אלגוריתם לשידוך דירוג מקסימלי בגרף דו-צדדי.
 
-#### [אתר הדגמה](https://fair-alloc.streamlit.app/Rank_Maximal_Matching)
-- [**גיטהאב**](https://github.com/JThh/fair-alloc-app-ra/)
-- **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
-
-#### [אתר הדגמה - גיליון אלקטרוני](https://rmm.csariel.xyz)
-- [**גיטהאב**](https://github.com/oriyalp/rmm_flask_app)
-- **סטודנטית** [אוריה אלפרין](https://github.com/oriyalp).
-
-#### אלגוריתם - ספריית networkz
-- [**גיטהאב**](https://github.com/OLAnetworkx/networkz/blob/master/networkz/algorithms/bipartite/rank_maximal_matching.py)
-- **סטודנטים:** 
+- [**אתר הדגמה**](https://fair-alloc.streamlit.app/Rank_Maximal_Matching)   ([קוד מקור](https://github.com/JThh/fair-alloc-app-ra/) מאת [אוריה אלפרין](https://github.com/oriyalp)).
+- [אתר הדגמה בגיליון אלקטרוני](https://rmm.csariel.xyz) ([קוד מקור](https://github.com/oriyalp/rmm_flask_app) מאת [אוריה אלפרין](https://github.com/oriyalp)).
+- [**מימוש האלגוריתם** אלגוריתם בספריית networkz](https://github.com/OLAnetworkx/networkz/blob/master/networkz/algorithms/bipartite/rank_maximal_matching.py)
+- סטודנטים:
     [עמיאל לחזור](https://github.com/amiel349),
     [ליאל וקנין](https://github.com/LielVaknin),
     [אוריה אלפרין](https://github.com/oriyalp).
@@ -155,10 +152,11 @@
 
 ### [חלוקה פרופורציונלית](https://propalloc.csariel.xyz)
 
-**חלוקה פרופורציונלית על פי בורדה** (Proportional Borda allocation) 
+אלגוריתם למציאת חלוקה פרופורציונלית של חפצים בין אנשים, כאשר האנשים מייחסים לחפצים ערכים לפי שיטת בורדה (החפץ הכי גרוע שווה 1, הבא אחריו שווה 2, וכן הלאה).
 
-- [**גיטהאב**](https://github.com/shlomog12/web-Proportional-allocations)
-- **סטודנט** [שלמה גליק](https://github.com/shlomog12/web-Proportional-allocations)
+- [**אתר להדגמת האלגוריתם**](https://propalloc.csariel.xyz)
+- [קוד מקור](https://github.com/shlomog12/web-Proportional-allocations)
+- סטודנט: [שלמה גליק](https://github.com/shlomog12/web-Proportional-allocations)
 
 </div>
 </div>
@@ -171,17 +169,17 @@
 
 ### שידוך נטול קנאה
 
-**שידוך נטול קנאה** (Envy Free Matching) הוא שידוך בין אנשים לחפצים בו אף אדם לא ירצה להחליף את החפץ שקיבל עם חפץ של אדם אחר.
+**שידוך נטול קנאה** (Envy Free Matching) הוא שידוך בין אנשים לחפצים, שבו גם מי שלא קיבל חפץ אינו מקנא, כי הוא לא מעוניין באף אחד מהחפצים שנמסרו לאחרים.
 
-#### [שידוך נטול קנאה](https://efm.csariel.xyz)
-- [**גיטהאב**](https://github.com/danigil/networkx)
-- **סטודנטים**:
+- [**אתר להדגמת האלגוריתם**](https://efm.csariel.xyz)
+- [מימוש האלגוריתם בספריה networkx](https://github.com/danigil/networkx)
+- סטודנטים:
     [דניאל גילקרוב](https://github.com/danigil),
     [בנימין סלדמן](https://github.com/BenjaminSaldman).
-
-#### [שידוך נטול קנאה בגליון אלקטרוני](https://envyfree.csariel.xyz/)
-- [**גיטהאב**]( https://github.com/noamya-sh/fairpy)
-- **סטודנט** [נועמיה שני](https://github.com/noamya-sh)
+-
+- [חלוקה ללא  קנאה בגליון אלקטרוני](https://envyfree.csariel.xyz/)-
+- [מימוש האלגוריתם בספריה fairpy]( https://github.com/noamya-sh/fairpy)
+- סטודנט: [נועמיה שני](https://github.com/noamya-sh)
 </div>
 </div>
 
