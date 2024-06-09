@@ -37,7 +37,8 @@
 אתם (האזרחים) מתחברים לאתר של איש-ציבור מסוים, מעלים נושאים שאתם רוצים שיטופלו, ומצביעים לנושאים שהעלו אזרחים אחרים. 
 המערכת מדרגת את הנושאים לפי מספר התומכים בכל נושא, אבל מתחשבת גם במיעוטים ומבטיחה שכל קבוצה תקבל מענה הוגן.
 
-- [**גיטהאב**](https://github.com/ariel-research/adhocracy-plus) -   השתלבות עם מערכת Adhocracy Plus.
+- [**האתר**](https://aplus.csariel.xyz).
+- [**קוד המקור**](https://github.com/ariel-research/adhocracy-plus) - משולב במערכת Adhocracy Plus.
 - **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
 </div>
 </div>
