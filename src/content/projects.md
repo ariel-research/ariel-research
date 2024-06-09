@@ -199,8 +199,8 @@
 * [חלוקת התיקים בממשלה בין המפלגות בקואליציה](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1tJPV-y-r1TAx5FqbrqecKPJMeKHTtIDeiYck8eLoGKY%2Fedit%23gid%3D0&algorithm_name=bounded_sharing&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
 * [חלוקת מקומות בקורסי-בחירה בין סטודנטים](https://fairweb.csariel.xyz/2/he?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1iwrgI0wPa6B4ps9WdCmKIK3K1ekd7ilFQu0Idmqg5SY%2Fedit%23gid%3D0&algorithm_name=course_allocation&url=%D7%A9%D7%9C%D7%99%D7%97%D7%94)
 
-- [**גיטהאב**](https://github.com/erelsgl/fairweb)
-- **מתכנת** [ד"ר אראל סגל-הלוי](https://erelsgl.github.io).
+- [קוד מקור](https://github.com/erelsgl/fairweb)
+- מתכנת: [ד"ר אראל סגל-הלוי](https://erelsgl.github.io).
 
 </div>
 </div>
