@@ -135,7 +135,7 @@
 
 - [**אתר הדגמה**](https://fair-alloc.streamlit.app/Rank_Maximal_Matching)   ([קוד מקור](https://github.com/JThh/fair-alloc-app-ra/) מאת [אוריה אלפרין](https://github.com/oriyalp)).
 - [אתר הדגמה בגיליון אלקטרוני](https://rmm.csariel.xyz) ([קוד מקור](https://github.com/oriyalp/rmm_flask_app) מאת [אוריה אלפרין](https://github.com/oriyalp)).
-- [**מימוש האלגוריתם** אלגוריתם בספריית networkz](https://github.com/OLAnetworkx/networkz/blob/master/networkz/algorithms/bipartite/rank_maximal_matching.py)
+- [**מימוש האלגוריתם** בספריית networkz](https://github.com/OLAnetworkx/networkz/blob/master/networkz/algorithms/bipartite/rank_maximal_matching.py)
 - סטודנטים:
     [עמיאל לחזור](https://github.com/amiel349),
     [ליאל וקנין](https://github.com/LielVaknin),
