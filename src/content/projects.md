@@ -37,9 +37,9 @@
 אתם (האזרחים) מתחברים לאתר של איש-ציבור מסוים, מעלים נושאים שאתם רוצים שיטופלו, ומצביעים לנושאים שהעלו אזרחים אחרים. 
 המערכת מדרגת את הנושאים לפי מספר התומכים בכל נושא, אבל מתחשבת גם במיעוטים ומבטיחה שכל קבוצה תקבל מענה הוגן.
 
-- [**האתר**](https://aplus.csariel.xyz).
-- [**קוד המקור**](https://github.com/ariel-research/adhocracy-plus) - משולב במערכת Adhocracy Plus.
-- **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
+- [**האתר**](https://aplus.csariel.xyz)
+- [קוד המקור](https://github.com/ariel-research/adhocracy-plus) - משולב במערכת Adhocracy Plus.
+- מתכנתת: [אוריה אלפרין](https://github.com/oriyalp).
 </div>
 </div>
 
@@ -53,15 +53,10 @@
 ### [חלוקה הוגנת של קורסי בחירה](https://faircourse.csariel.xyz)
 אתם (הסטודנטים) מדרגים את קורסי הבחירה לפי ההעדפות שלכם. המערכת מחלקת את המקומות בקורסי הבחירה בעזרת אלגוריתם לחלוקה הוגנת. אנחנו מציעים להשתמש במערכת זו כתחליף לשיטה הנוכחית של "כל הקודם זוכה".
 
-- **גיטהאב**
-    [צד לקוח](https://github.com/ariel-research/cap-frontend),
-    [צד שרת](https://github.com/ariel-research/cap-backend),
-    [כללי](https://github.com/ariel-research/course-rater).
-- **סטודנטים**
-    [איתי שמחי](https://github.com/Itaysim7),
-    [ליהיא בלפר](https://github.com/lihib94),
-    [יוסף שטיין](https://github.com/Joseph-Schtein).
-- **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
+- [**האתר**](https://faircourse.csariel.xyz)
+- [אתר להדגמת האלגוריתמים](https://fair-alloc.streamlit.app/Course_Allocation_Problem)
+- קוד המקור: [צד לקוח](https://github.com/ariel-research/cap-frontend), [צד שרת](https://github.com/ariel-research/cap-backend), [כלי חישוב](https://github.com/ariel-research/course-rater), [האתר להדגמת האלגוריתמים](https://github.com/ariel-research/fair-alloc-app-ra/tree/iter-max-match).
+- מתכנתים: [איתי שמחי](https://github.com/Itaysim7), [ליהיא בלפר](https://github.com/lihib94), [יוסף שטיין](https://github.com/Joseph-Schtein), ו[אוריה אלפרין](https://github.com/oriyalp).
 
 </div>
 </div>
