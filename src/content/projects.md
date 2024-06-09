@@ -22,9 +22,26 @@
 <div dir="rtl" lang="he">
 
 **המעבדה לאלגוריתמים כלכליים** עוסקת באפיון, פיתוח, מימוש והדגמה של אלגוריתמים לחלוקה הוגנת של משאבים.
-
+[**גיטהאב**](https://github.com/ariel-research)
  
 ## יישומים שפותחו במעבדה
+
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/fairvote.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [קביעת סדרי-עדיפויות לאנשי-ציבור](https://aplus.csariel.xyz)
+אתם (האזרחים) מתחברים לאתר של איש-ציבור מסוים, מעלים נושאים שאתם רוצים שיטופלו, ומצביעים לנושאים שהעלו אזרחים אחרים. 
+המערכת מדרגת את הנושאים לפי מספר התומכים בכל נושא, אבל מתחשבת גם במיעוטים ומבטיחה שכל קבוצה תקבל מענה הוגן.
+
+- [**גיטהאב**](https://github.com/ariel-research/adhocracy-plus) -   השתלבות עם מערכת Adhocracy Plus.
+- **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
+</div>
+</div>
+
 
 <div style="display: flex;">
     <div class="back">
@@ -109,12 +126,24 @@
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [שידוך דירוג מקסימלי](https://rmm.csariel.xyz)
+### [שידוך דירוג מקסימלי](https://fair-alloc.streamlit.app/Rank_Maximal_Matching)
 
 **שידוך דירוג מקסימלי** (Rank Maximal Matching) הוא שידוך בין אנשים לחפצים, הממקסם את מספר האנשים שמקבלים את העדיפות הראשונה שלהם; בכפוף לזה, ממקסם את מספר האנשים המקבלים את העדיפות השניה שלהם; וכו'. האתר מדגים אלגוריתם לשידוך דירוג מקסימלי בגרף דו-צדדי.
 
+#### [אתר הדגמה](https://fair-alloc.streamlit.app/Rank_Maximal_Matching)
+- [**גיטהאב**](https://github.com/JThh/fair-alloc-app-ra/)
+- **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
+
+#### [אתר הדגמה - גיליון אלקטרוני](https://rmm.csariel.xyz)
 - [**גיטהאב**](https://github.com/oriyalp/rmm_flask_app)
 - **סטודנטית** [אוריה אלפרין](https://github.com/oriyalp).
+
+#### אלגוריתם - ספריית networkz
+- [**גיטהאב**](https://github.com/OLAnetworkx/networkz/blob/master/networkz/algorithms/bipartite/rank_maximal_matching.py)
+- **סטודנטים:** 
+    [עמיאל לחזור](https://github.com/amiel349),
+    [ליאל וקנין](https://github.com/LielVaknin),
+    [אוריה אלפרין](https://github.com/oriyalp).
 
 </div>
 </div>
@@ -194,20 +223,6 @@
 
 ## יישומים בתיכנון
 
-<div style="display: flex;">
-    <div class="back">
-        <img src="/images/projects/fairvote.png" alt="Image" class="icon">
-    </div>
-    <div style="flex: 3; padding: 10px;">
-
-### [קביעת סדרי-עדיפויות לאנשי-ציבור](https://github.com/ariel-research/adhocracy-plus/blob/fairvote/FAIRVOTE.md)
-אתם (האזרחים) מתחברים לאתר של איש-ציבור מסוים, מעלים נושאים שאתם רוצים שיטופלו, ומצביעים לנושאים שהעלו אזרחים אחרים. 
-המערכת מדרגת את הנושאים לפי מספר התומכים בכל נושא, אבל מתחשבת גם במיעוטים ומבטיחה שכל קבוצה תקבל מענה הוגן.
-
-- [**גיטהאב**](https://github.com/ariel-research/adhocracy-plus) - התיכנון הוא להשתלב עם מערכת Adhocracy Plus.
-- **מתכנתת** [אוריה אלפרין](https://github.com/oriyalp).
-</div>
-</div>
 
 <div style="display: flex;">
     <div class="back">
@@ -223,11 +238,18 @@
 </div>
 </div>
 
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/apartment.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
 
+    
 ### חלוקה הוגנת של דירות בתהליכי התחדשות עירונית 
 בתהליכי התחדשות עירונית כגון "פינוי בינוי", אחד האתגרים המרכזיים הוא להחליט על אופן החלוקה של דירות התמורה בין הדיירים, באופן הוגן ובהתאם לשווי הדירה הנוכחית שלהם.
 הנושא בתהליכי מחקר; אם אתם מתעניינים בנושא, פנו אלינו.
-
+</div>
+</div>
 
 ## קורסים
 
