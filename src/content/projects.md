@@ -140,6 +140,22 @@
 </div>
 </div>
 
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/rmm.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [תיכנות אלגוריתמים מחקריים](https://sites.google.com/view/research-algorithms/5784)
+
+אלגוריתמים רבים שהתפרסמו לאחרונה במאמרים מחקריים, במיוחד בנושא חלוקה הוגנת, תוכנתו ע"י סטודנטים בקורס. הסטודנטים שילבו את האלגוריתמים בספריות קוד פתוח, וכתבו אתרי אינטרנט להדגמת האלגוריתמים.
+
+- [**אתרי ההדגמה**](https://sites.google.com/view/research-algorithms/5784), וקישורים לקוד המקור. 
+</div>
+</div>
+
+
 <div style="display: flex;">
     <div class="back">
         <img src="/images/projects/rmm.png" alt="Image" class="icon">
