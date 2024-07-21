@@ -147,21 +147,6 @@
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [תיכנות אלגוריתמים מחקריים](https://sites.google.com/view/research-algorithms/5784)
-
-אלגוריתמים רבים שהתפרסמו לאחרונה במאמרים מחקריים, במיוחד בנושא חלוקה הוגנת, תוכנתו ע"י סטודנטים בקורס. הסטודנטים שילבו את האלגוריתמים בספריות קוד פתוח, וכתבו אתרי אינטרנט להדגמת האלגוריתמים.
-
-- [**אתרי ההדגמה**](https://sites.google.com/view/research-algorithms/5784), וקישורים לקוד המקור. 
-</div>
-</div>
-
-
-<div style="display: flex;">
-    <div class="back">
-        <img src="/images/projects/rmm.png" alt="Image" class="icon">
-    </div>
-    <div style="flex: 3; padding: 10px;">
-
 ### [שידוך דירוג מקסימלי](https://fair-alloc.streamlit.app/Rank_Maximal_Matching)
 
 **שידוך דירוג מקסימלי** (Rank Maximal Matching) הוא שידוך בין אנשים לחפצים, הממקסם את מספר האנשים שמקבלים את העדיפות הראשונה שלהם; בכפוף לזה, ממקסם את מספר האנשים המקבלים את העדיפות השניה שלהם; וכו'. האתר מדגים אלגוריתם לשידוך דירוג מקסימלי בגרף דו-צדדי.
@@ -180,41 +165,16 @@
 <div style="display: flex;">
     <div class="back">
         <img src="/images/projects/propalloc.png" alt="Image" class="icon">
-    </div>
-    <div style="flex: 3; padding: 10px;">
-
-### [חלוקה פרופורציונלית](https://propalloc.csariel.xyz)
-
-אלגוריתם למציאת חלוקה פרופורציונלית של חפצים בין אנשים, כאשר האנשים מייחסים לחפצים ערכים לפי שיטת בורדה (החפץ הכי גרוע שווה 1, הבא אחריו שווה 2, וכן הלאה).
-
-- [**אתר להדגמת האלגוריתם**](https://propalloc.csariel.xyz)
-- [קוד מקור](https://github.com/shlomog12/web-Proportional-allocations)
-- סטודנט: [שלמה גליק](https://github.com/shlomog12/web-Proportional-allocations)
-
-</div>
-</div>
-
-<div style="display: flex;">
-    <div class="back">
         <img src="/images/projects/envyfree.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### שידוך נטול קנאה
+### [תיכנות אלגוריתמים מחקריים](https://sites.google.com/view/research-algorithms/5784)
 
-**שידוך נטול קנאה** (Envy Free Matching) הוא שידוך בין אנשים לחפצים, שבו גם מי שלא קיבל חפץ אינו מקנא, כי הוא לא מעוניין באף אחד מהחפצים שנמסרו לאחרים.
+אלגוריתמים רבים שהתפרסמו לאחרונה במאמרים מחקריים, במיוחד בנושא חלוקה הוגנת, תוכנתו ע"י סטודנטים בקורס. הסטודנטים שילבו את האלגוריתמים בספריות קוד פתוח, וכתבו אתרי אינטרנט להדגמת האלגוריתמים.
 
-- [**אתר להדגמת האלגוריתם**](https://efm.csariel.xyz)
-- [מימוש האלגוריתם בספריה networkx](https://github.com/danigil/networkx)
-- סטודנטים:
-    [דניאל גילקרוב](https://github.com/danigil),
-    [בנימין סלדמן](https://github.com/BenjaminSaldman).
+- [**אתרי ההדגמה**](https://sites.google.com/view/research-algorithms/5784), עם קישורים לקוד המקור. 
 
-אלגוריתם דומה:
-
-- [חלוקה ללא  קנאה בגליון אלקטרוני](https://envyfree.csariel.xyz/)
-- [מימוש האלגוריתם בספריה fairpy]( https://github.com/noamya-sh/fairpy)
-- סטודנט: [נועמיה שני](https://github.com/noamya-sh)
 </div>
 </div>
 
