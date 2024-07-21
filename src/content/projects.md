@@ -104,12 +104,12 @@
 </div>
 </div>
 
+
 <div style="display: flex;">
     <div class="back">
         <img src="/images/projects/knesset.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
-
 
 ### [שיטות בחירות חדשניות](https://pref.tools/abcvoting/)
 תרמנו מעט לפרויקט קוד פתוח המדגים שיטות בחירות חדשניות. השיטות מאפשרות למועמדים להתמודד ללא מפלגות; כל בוחר יכול להצביע לכמה מועמדים; והאלגוריתמים מבטיחים ייצוג יחסי לכל קבוצת בוחרים בהתאם לגודלה. התרומה שלנו: הוספת אפשרות להגדרת קבוצות גדולות של בוחרים עם אותן העדפות.
@@ -117,6 +117,15 @@
 - [אתר ההדגמה](https://pref.tools/abcvoting)
 - [קוד מקור](https://github.com/DominikPeters/abcvoting-app/) - מאת דומיניק פטרס (Dominik Peters).
 
+</div>
+</div>
+
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/knesset.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
 
 ### [דירוג חברי כנסת](https://knesset.csariel.xyz)
 אתם כותבים מה דעתכם על הצעות-חוק שנדונו בכנסת (בעד או נגד).  המערכת מדרגת את חברי-הכנסת לפי רמת ההתאמה בין ההצבעות שלהם להצבעות שלכם, ועוזרת לכם להחליט באיזה חברי הכנסת לבחור בבחירות הבאות.
@@ -224,6 +233,20 @@
 ### [אלגוריתמים בגרפים](https://github.com/ariel-research/networkz) 
 
 הספריה networkz היא הרחבה של networkx, הכוללת מימושים של כמה אלגוריתמים בגרפים ורשתות, שנכתבו במסגרת המעבדה.
+
+
+</div>
+</div>
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/networkz.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [אופטימיזציה קמורה](https://github.com/cvxpy/cvxpy) 
+תרומה צנועה לספרייה cvxpy לפתרון בעיות אופטימיזציה קמורות.
+
 
 </div>
 </div>
