@@ -123,26 +123,6 @@
 
 <div style="display: flex;">
     <div class="back">
-        <img src="/images/projects/knesset.png" alt="Image" class="icon">
-    </div>
-    <div style="flex: 3; padding: 10px;">
-
-### [דירוג חברי כנסת](https://knesset.csariel.xyz)
-אתם כותבים מה דעתכם על הצעות-חוק שנדונו בכנסת (בעד או נגד).  המערכת מדרגת את חברי-הכנסת לפי רמת ההתאמה בין ההצבעות שלהם להצבעות שלכם, ועוזרת לכם להחליט באיזה חברי הכנסת לבחור בבחירות הבאות.
-
-- [אתר להדגמת האלגוריתם](https://knesset.csariel.xyz)
-- [קוד מקור](https://github.com/Political-Transparency)
-- סטודנטים:
-    [רפאל סולימן](),
-    [יוסי מאמו](),
-    [גלעד מועלם]().
-
-</div>
-</div>
-
-
-<div style="display: flex;">
-    <div class="back">
         <img src="/images/projects/rmm.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
@@ -228,6 +208,28 @@
 </div>
 
 ## יישומים בתיכנון
+
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/knesset.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### דירוג חברי כנסת
+אתם כותבים מה דעתכם על הצעות-חוק שנדונו בכנסת (בעד או נגד).  המערכת מדרגת את חברי-הכנסת לפי רמת ההתאמה בין ההצבעות שלהם להצבעות שלכם, ועוזרת לכם להחליט באיזה חברי הכנסת לבחור בבחירות הבאות.
+
+*היישום כבר כתוב, אבל לא פועל כרגע בגלל תקלה באתר המידע של הכנסת. אנחנו מקווים להחזיר את האתר לפעולה כשצוות המידע של הכנסת יתקן את התקלה.*
+
+- [האתר הישן להדגמת האלגוריתם](https://knesset.csariel.xyz) (לא פועל כרגע);
+- [קוד מקור](https://github.com/Political-Transparency).
+- סטודנטים:
+    [רפאל סולימן](),
+    [יוסי מאמו](),
+    [גלעד מועלם]().
+
+</div>
+</div>
 
 
 <div style="display: flex;">
