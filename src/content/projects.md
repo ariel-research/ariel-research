@@ -144,8 +144,7 @@
 
 <div style="display: flex;">
     <div class="back">
-        <img src="/images/projects/propalloc.png" alt="Image" class="icon">
-        <img src="/images/projects/envyfree.png" alt="Image" class="icon">
+        <img src="/images/projects/res-algorithm.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
 
@@ -196,12 +195,30 @@
 
 <div style="display: flex;">
     <div class="back">
-        <img src="/images/projects/networkz.png" alt="Image" class="icon">
+        <img src="/images/projects/cvxpy.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
 
 ### [אופטימיזציה קמורה](https://github.com/cvxpy/cvxpy) 
 תרומה צנועה לספרייה cvxpy לפתרון בעיות אופטימיזציה קמורות.
+
+
+</div>
+</div>
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/propalloc.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [המחשת אלגוריתמי חלוקה הוגנת](https://fair-alloc.streamlit.app) 
+אתר להמחשת אלגוריתמי חלוקה הוגנת של חפצים בין אנשים.
+תרמנו לאתר 2 דפים:
+1. דף עבור אלגוריתם למציאת שידוך מדורג מקסימלי.
+2. דף עבור אלגוריתמי חלוקת קורסים לסטודנטים.
+- [אתר](https://fair-alloc.streamlit.app)
+- [קוד מקור](https://github.com/JThh/fair-alloc-app-ra)
 
 
 </div>
