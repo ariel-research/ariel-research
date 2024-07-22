@@ -4,21 +4,6 @@
     <br/>המעבדה לאלגוריתמים כלכליים
     </h1>
 </div>
-<style>
-        .back {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-            margin-top: 45px;
-            height: fit-content;
-            background-color: #70CEEC;
-        }
-        .icon {
-            max-width: 100%;
-            max-height: 100%;
-        }
-</style>
 <div dir="rtl" lang="he">
 
 **המעבדה לאלגוריתמים כלכליים** עוסקת באפיון, פיתוח, מימוש והדגמה של אלגוריתמים לחלוקה הוגנת של משאבים.
