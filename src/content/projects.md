@@ -89,23 +89,6 @@
 </div>
 </div>
 
-
-<div style="display: flex;">
-    <div class="back">
-        <img src="/images/projects/envyfree.png" alt="Image" class="icon">
-    </div>
-    <div style="flex: 3; padding: 10px;">
-
-### [שיטות בחירות חדשניות](https://pref.tools/abcvoting/)
-תרמנו מעט לפרויקט קוד פתוח המדגים שיטות בחירות חדשניות. השיטות מאפשרות למועמדים להתמודד ללא מפלגות; כל בוחר יכול להצביע לכמה מועמדים; והאלגוריתמים מבטיחים ייצוג יחסי לכל קבוצת בוחרים בהתאם לגודלה. התרומה שלנו: הוספת אפשרות להגדרת קבוצות גדולות של בוחרים עם אותן העדפות.
-
-- [אתר ההדגמה](https://pref.tools/abcvoting)
-- [קוד מקור](https://github.com/DominikPeters/abcvoting-app/) - מאת דומיניק פטרס (Dominik Peters).
-
-</div>
-</div>
-
-
 <div style="display: flex;">
     <div class="back">
         <img src="/images/projects/rmm.png" alt="Image" class="icon">
@@ -205,6 +188,36 @@
 - [אתר](https://fair-alloc.streamlit.app)
 - [קוד מקור](https://github.com/JThh/fair-alloc-app-ra)
 
+
+</div>
+</div>
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/pabutools.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [חלוקת תקציב הוגנת](https://pabutools.csariel.xyz)
+תרמנו מעט לפרויקט קוד פתוח המדגים חלוקת תקציב הוגנת. התרומה שלנו: הוספת אפשרות להגדרת קבוצות גדולות של בוחרים עם אותן העדפות.
+
+- [אתר ההדגמה](https://pabutools.csariel.xyz)
+- [קוד מקור](https://github.com/ariel-research/pabutools-app/) - מבוסס על קוד של דומיניק פטרס (Dominik Peters).
+
+</div>
+</div>
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/envyfree.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [שיטות בחירות חדשניות](https://pref.tools/abcvoting/)
+תרמנו מעט לפרויקט קוד פתוח המדגים שיטות בחירות חדשניות. השיטות מאפשרות למועמדים להתמודד ללא מפלגות; כל בוחר יכול להצביע לכמה מועמדים; והאלגוריתמים מבטיחים ייצוג יחסי לכל קבוצת בוחרים בהתאם לגודלה. התרומה שלנו: הוספת אפשרות להגדרת קבוצות גדולות של בוחרים עם אותן העדפות.
+
+- [אתר ההדגמה](https://pref.tools/abcvoting)
+- [קוד מקור](https://github.com/DominikPeters/abcvoting-app/) - מאת דומיניק פטרס (Dominik Peters).
 
 </div>
 </div>
