@@ -14,17 +14,17 @@
 
 <div style="display: flex;">
     <div class="back">
-        <img src="/images/projects/fairvote.png" alt="Image" class="icon">
+        <img src="/images/projects/budget.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
 
 ### תקציב משתף לאגודת הסטודנטים של אריאל
 יחד עם [אגודת הסטודנטים של אריאל](https://sua.co.il), פיתחנו מערכת המאפשרת לסטודנטים לבחור איך לחלק את תקציב האגודה בין פרוייקטים שונים. אלגוריתם ששופר ושוכלל במעבדה משקלל את כל הצבעות הסטודנטים לתקציב אחד, המבטיח חלק הוגן לכל תת-קבוצה של סטודנטים. 
 
-- כתבות בתקשורת: [ניוזים השרון[(https://newzim.co.il/sharon/?p=23847), [מגדלור ניוז](https://www.migdalor-news.co.il/13781-3/).
+- כתבות בתקשורת: [ניוזים השרון](https://newzim.co.il/sharon/?p=23847), [מגדלור ניוז](https://www.migdalor-news.co.il/13781-3/).
 - [קוד המקור](https://github.com/ariel-research/equal-shares) - מרחיב את אלגוריתם "שיטת החלקים השווים".
 - סטודנטים: עומר פריאל, בר נחמיאס, וידידיה אביגד (יו"ר האגודה).
--  [קישור ישן לאתר ההצבעה (ההצבעה כבר הסתיימה)]([https://aplus.csariel.xyz](https://sua.co.il/vote/))
+-  [קישור ישן לאתר ההצבעה (ההצבעה כבר הסתיימה)](https://sua.co.il/vote/)
 - 
 </div>
 </div>
