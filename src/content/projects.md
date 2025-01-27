@@ -337,4 +337,4 @@
 ## צוות המעבדה
 
 * חוקר ראשי: [פרופ' אראל סגל-הלוי](http://erelsgl.github.io).
-* מתכנתים: [אוריה אלפרין](https://github.com/oriyalperin) ו [ליעוז עקירב](https://github.com/Lioo7). 
+* מתכנתים: [אוריה אלפרין](https://github.com/oriyalperin), [ליעוז עקירב](https://github.com/Lioo7). 
