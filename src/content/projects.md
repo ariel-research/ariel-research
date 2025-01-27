@@ -23,8 +23,9 @@
 
 - כתבות בתקשורת: [ניוזים השרון](https://newzim.co.il/sharon/?p=23847), [מגדלור ניוז](https://www.migdalor-news.co.il/13781-3/).
 - [קוד המקור](https://github.com/ariel-research/equal-shares) - מרחיב את אלגוריתם "שיטת החלקים השווים".
+- [קישור ישן לאתר ההצבעה (ההצבעה כבר הסתיימה)](https://sua.co.il/vote/)
 - סטודנטים: עומר פריאל, בר נחמיאס, וידידיה אביגד (יו"ר האגודה).
--  [קישור ישן לאתר ההצבעה (ההצבעה כבר הסתיימה)](https://sua.co.il/vote/)
+- סיוע בתיכנות: [ליעוז עקירב](https://github.com/Lioo7).
  
 </div>
 </div>
@@ -90,6 +91,7 @@
 </div>
 </div>
 
+
 <div style="display: flex;">
     <div class="back">
         <img src="/images/projects/budget.png" alt="Image" class="icon">
@@ -105,6 +107,23 @@
    [אלחי מנצבך](https://github.com/ElhaiMansbach),
    [אופיר עובדיה](https://github.com/OfirOvadia96),
    [ליעוז עקירב](https://github.com/Lioo7).
+
+</div>
+</div>
+
+
+<div style="display: flex;">
+    <div class="back">
+        <img src="/images/projects/budget.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### [סקר תקציב](https://survey.csariel.xyz/?userID=123&surveyID=123)
+סקר דעת-קהל שמטרתו לבדוק את העדפות האזרחים בנושא חלוקת התקציב. תוצאות הסקר ישמשו לפיתוח אלגוריתמים מתקדמים לחלוקת תקציב הוגנת.
+
+- [אתר הסקר](https://survey.csariel.xyz/?userID=123&surveyID=123).
+- [קוד מקור](https://github.com/ariel-research/budget-survey).
+- מתכנת: [ליעוז עקירב](https://github.com/Lioo7).
 
 </div>
 </div>
