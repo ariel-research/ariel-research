@@ -23,6 +23,7 @@
 
 - כתבות בתקשורת: [ניוזים השרון](https://newzim.co.il/sharon/?p=23847), [מגדלור ניוז](https://www.migdalor-news.co.il/13781-3/).
 - [קוד המקור](https://github.com/ariel-research/equal-shares) - מרחיב את אלגוריתם "שיטת החלקים השווים".
+- [אתר הדגמה](https://budget-sua.csariel.xyz/)
 - [קישור ישן לאתר ההצבעה (ההצבעה כבר הסתיימה)](https://sua.co.il/vote/)
 - סטודנטים: עומר פריאל, בר נחמיאס, וידידיה אביגד (יו"ר האגודה).
 - סיוע בתיכנות: [ליעוז עקירב](https://github.com/Lioo7).
@@ -32,31 +33,13 @@
 
 
 
-
-<div style="display: flex;">
-    <div class="back">
-        <img src="/images/projects/fairvote.png" alt="Image" class="icon">
-    </div>
-    <div style="flex: 3; padding: 10px;">
-
-### [קביעת סדרי-עדיפויות לאנשי-ציבור](https://aplus.csariel.xyz)
-אתם (האזרחים) מתחברים לאתר של איש-ציבור מסוים, מעלים נושאים שאתם רוצים שיטופלו, ומצביעים לנושאים שהעלו אזרחים אחרים. 
-המערכת מדרגת את הנושאים לפי מספר התומכים בכל נושא, אבל מתחשבת גם במיעוטים ומבטיחה שכל קבוצה תקבל מענה הוגן.
-
-- [**האתר לקביעת סדרי עדיפויות**](https://aplus.csariel.xyz)
-- [קוד המקור](https://github.com/ariel-research/adhocracy-plus) - משולב במערכת Adhocracy Plus.
-- מתכנתת: [אוריה אלפרין](https://github.com/oriyalp).
-</div>
-</div>
-
-
 <div style="display: flex;">
     <div class="back">
         <img src="/images/projects/faircourse.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [חלוקה הוגנת של קורסי בחירה](https://faircourse.csariel.xyz)
+### חלוקה הוגנת של קורסי בחירה
 אתם (הסטודנטים) מדרגים את קורסי הבחירה לפי ההעדפות שלכם. המערכת מחלקת את המקומות בקורסי הבחירה בעזרת אלגוריתם לחלוקה הוגנת. אנחנו מציעים להשתמש במערכת זו כתחליף לשיטה הנוכחית של "כל הקודם זוכה".
 
 - [**האתר לחלוקת קורסים**](https://faircourse.csariel.xyz)
@@ -73,11 +56,29 @@
 
 <div style="display: flex;">
     <div class="back">
+        <img src="/images/projects/fairvote.png" alt="Image" class="icon">
+    </div>
+    <div style="flex: 3; padding: 10px;">
+
+### קביעת סדרי-עדיפויות לאנשי-ציבור
+אתם (האזרחים) מתחברים לאתר של איש-ציבור מסוים, מעלים נושאים שאתם רוצים שיטופלו, ומצביעים לנושאים שהעלו אזרחים אחרים. 
+המערכת מדרגת את הנושאים לפי מספר התומכים בכל נושא, אבל מתחשבת גם במיעוטים ומבטיחה שכל קבוצה תקבל מענה הוגן.
+
+- [**האתר לקביעת סדרי עדיפויות**](https://aplus.csariel.xyz)
+- [קוד המקור](https://github.com/ariel-research/adhocracy-plus) - משולב במערכת Adhocracy Plus.
+- מתכנתת: [אוריה אלפרין](https://github.com/oriyalp).
+</div>
+</div>
+
+
+
+<div style="display: flex;">
+    <div class="back">
         <img src="/images/projects/parliament.png" alt="Image" class="icon">
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [הממשלה שלנו](https://ourgov.csariel.xyz)
+### הממשלה שלנו
 אתם (האזרחים) בוחרים את השרים באופן ישיר: אלגוריתם חדשני מבטיח שהתוצאה תייצג באופן הוגן את כל הקבוצות בציבור.
 
 - [אתר להדגמת האלגוריתם](https://ourgov.csariel.xyz)
@@ -98,7 +99,7 @@
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [תקציב העם](https://budget.csariel.xyz)
+### תקציב העם
 אתם משנים את תקציב המדינה לפי דעתכם והעדפותיכם. אלגוריתם חדשני משקלל את ההצעות של כל האזרחים לתקציב אחד מאוזן.
 
 - [אתר להדגמת האלגוריתם](https://budget.csariel.xyz)
@@ -118,10 +119,10 @@
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [סקר תקציב](https://survey.csariel.xyz/?userID=123&surveyID=123)
+### סקר תקציב
 סקר דעת-קהל שמטרתו לבדוק את העדפות האזרחים בנושא חלוקת התקציב. תוצאות הסקר ישמשו לפיתוח אלגוריתמים מתקדמים לחלוקת תקציב הוגנת.
 
-- [אתר הסקר](https://survey.csariel.xyz/?userID=123&surveyID=123).
+- [אתר הסקרים](https://survey.csariel.xyz).
 - [קוד מקור](https://github.com/ariel-research/budget-survey).
 - מתכנת: [ליעוז עקירב](https://github.com/Lioo7).
 
@@ -134,7 +135,7 @@
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [שידוך דירוג מקסימלי](https://fair-alloc.streamlit.app/Rank_Maximal_Matching)
+### שידוך דירוג מקסימלי
 
 **שידוך דירוג מקסימלי** (Rank Maximal Matching) הוא שידוך בין אנשים לחפצים, הממקסם את מספר האנשים שמקבלים את העדיפות הראשונה שלהם; בכפוף לזה, ממקסם את מספר האנשים המקבלים את העדיפות השניה שלהם; וכו'. האתר מדגים אלגוריתם לשידוך דירוג מקסימלי בגרף דו-צדדי.
 
@@ -155,11 +156,11 @@
     </div>
     <div style="flex: 3; padding: 10px;">
 
-### [תיכנות אלגוריתמים מחקריים](https://sites.google.com/view/research-algorithms/5784)
+### תיכנות אלגוריתמים מחקריים
 
 אלגוריתמים רבים שהתפרסמו לאחרונה במאמרים מחקריים, במיוחד בנושא חלוקה הוגנת, תוכנתו ע"י סטודנטים בקורס. הסטודנטים שילבו את האלגוריתמים בספריות קוד פתוח, וכתבו אתרי אינטרנט להדגמת האלגוריתמים.
 
-- [**אתרי ההדגמה**](https://sites.google.com/view/research-algorithms/5784), עם קישורים לקוד המקור. 
+- [**אתרי ההדגמה**](https://sites.google.com/view/research-algorithms/), עם קישורים לקוד המקור. 
 
 </div>
 </div>
