@@ -28,7 +28,7 @@ ssh <username>@csariel.xyz
 	```
 4. צרו סביבה וירטואלית בשם `venv`:
 	```
-	python3 -m venv venv
+	python3 -m venv --system-site-packages venv
 	```
 5. הפעילו את הסביבה:
 	```
